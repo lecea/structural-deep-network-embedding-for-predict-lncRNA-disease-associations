@@ -1,0 +1,393 @@
+get precisionK...
+getting similarity...
+precisonK[50] 0.60
+precisonK[100] 0.42
+precisonK[150] 0.59
+precisonK[200] 0.55
+precisonK[250] 0.45
+precisonK[300] 0.44
+macro_f1: test ratio 0.05 : 0.333
+macro_f1: test ratio 0.10 : 0.486
+macro_f1: test ratio 0.15 : 0.498
+macro_f1: test ratio 0.20 : 0.413
+macro_f1: test ratio 0.25 : 0.593
+macro_f1: test ratio 0.30 : 0.632
+macro_f1: test ratio 0.35 : 0.569
+macro_f1: test ratio 0.40 : 0.632
+macro_f1: test ratio 0.45 : 0.604
+macro_f1: test ratio 0.50 : 0.540
+micro_f1: test ratio 0.05 : 0.333
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.500
+micro_f1: test ratio 0.20 : 0.417
+micro_f1: test ratio 0.25 : 0.600
+micro_f1: test ratio 0.30 : 0.639
+micro_f1: test ratio 0.35 : 0.585
+micro_f1: test ratio 0.40 : 0.638
+micro_f1: test ratio 0.45 : 0.604
+micro_f1: test ratio 0.50 : 0.542
+get precisionK...
+getting similarity...
+precisonK[50] 0.76
+precisonK[100] 0.74
+precisonK[150] 0.71
+precisonK[200] 0.71
+precisonK[250] 0.71
+precisonK[300] 0.72
+macro_f1: test ratio 0.05 : 0.333
+macro_f1: test ratio 0.10 : 0.413
+macro_f1: test ratio 0.15 : 0.416
+macro_f1: test ratio 0.20 : 0.365
+macro_f1: test ratio 0.25 : 0.306
+macro_f1: test ratio 0.30 : 0.500
+macro_f1: test ratio 0.35 : 0.404
+macro_f1: test ratio 0.40 : 0.503
+macro_f1: test ratio 0.45 : 0.472
+macro_f1: test ratio 0.50 : 0.406
+micro_f1: test ratio 0.05 : 0.500
+micro_f1: test ratio 0.10 : 0.417
+micro_f1: test ratio 0.15 : 0.444
+micro_f1: test ratio 0.20 : 0.375
+micro_f1: test ratio 0.25 : 0.333
+micro_f1: test ratio 0.30 : 0.500
+micro_f1: test ratio 0.35 : 0.439
+micro_f1: test ratio 0.40 : 0.511
+micro_f1: test ratio 0.45 : 0.491
+micro_f1: test ratio 0.50 : 0.407
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.54
+precisonK[150] 0.69
+precisonK[200] 0.70
+precisonK[250] 0.71
+precisonK[300] 0.63
+macro_f1: test ratio 0.05 : 0.250
+macro_f1: test ratio 0.10 : 0.314
+macro_f1: test ratio 0.15 : 0.667
+macro_f1: test ratio 0.20 : 0.467
+macro_f1: test ratio 0.25 : 0.566
+macro_f1: test ratio 0.30 : 0.580
+macro_f1: test ratio 0.35 : 0.483
+macro_f1: test ratio 0.40 : 0.589
+macro_f1: test ratio 0.45 : 0.527
+macro_f1: test ratio 0.50 : 0.514
+micro_f1: test ratio 0.05 : 0.333
+micro_f1: test ratio 0.10 : 0.333
+micro_f1: test ratio 0.15 : 0.667
+micro_f1: test ratio 0.20 : 0.500
+micro_f1: test ratio 0.25 : 0.567
+micro_f1: test ratio 0.30 : 0.583
+micro_f1: test ratio 0.35 : 0.488
+micro_f1: test ratio 0.40 : 0.596
+micro_f1: test ratio 0.45 : 0.547
+micro_f1: test ratio 0.50 : 0.525
+get precisionK...
+getting similarity...
+precisonK[50] 0.60
+precisonK[100] 0.38
+precisonK[150] 0.25
+precisonK[200] 0.19
+precisonK[250] 0.15
+precisonK[300] 0.13
+macro_f1: test ratio 0.05 : 0.778
+macro_f1: test ratio 0.10 : 0.438
+macro_f1: test ratio 0.15 : 0.486
+macro_f1: test ratio 0.20 : 0.624
+macro_f1: test ratio 0.25 : 0.542
+macro_f1: test ratio 0.30 : 0.413
+macro_f1: test ratio 0.35 : 0.436
+macro_f1: test ratio 0.40 : 0.521
+macro_f1: test ratio 0.45 : 0.424
+macro_f1: test ratio 0.50 : 0.359
+micro_f1: test ratio 0.05 : 0.833
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.500
+micro_f1: test ratio 0.20 : 0.625
+micro_f1: test ratio 0.25 : 0.567
+micro_f1: test ratio 0.30 : 0.417
+micro_f1: test ratio 0.35 : 0.463
+micro_f1: test ratio 0.40 : 0.532
+micro_f1: test ratio 0.45 : 0.434
+micro_f1: test ratio 0.50 : 0.390
+get precisionK...
+getting similarity...
+precisonK[50] 0.60
+precisonK[100] 0.44
+precisonK[150] 0.31
+precisonK[200] 0.25
+precisonK[250] 0.20
+precisonK[300] 0.17
+macro_f1: test ratio 0.05 : 0.486
+macro_f1: test ratio 0.10 : 0.496
+macro_f1: test ratio 0.15 : 0.532
+macro_f1: test ratio 0.20 : 0.457
+macro_f1: test ratio 0.25 : 0.457
+macro_f1: test ratio 0.30 : 0.667
+macro_f1: test ratio 0.35 : 0.366
+macro_f1: test ratio 0.40 : 0.487
+macro_f1: test ratio 0.45 : 0.495
+macro_f1: test ratio 0.50 : 0.491
+micro_f1: test ratio 0.05 : 0.500
+micro_f1: test ratio 0.10 : 0.583
+micro_f1: test ratio 0.15 : 0.556
+micro_f1: test ratio 0.20 : 0.458
+micro_f1: test ratio 0.25 : 0.467
+micro_f1: test ratio 0.30 : 0.667
+micro_f1: test ratio 0.35 : 0.390
+micro_f1: test ratio 0.40 : 0.511
+micro_f1: test ratio 0.45 : 0.509
+micro_f1: test ratio 0.50 : 0.492
+get precisionK...
+getting similarity...
+precisonK[50] 0.64
+precisonK[100] 0.73
+precisonK[150] 0.75
+precisonK[200] 0.76
+precisonK[250] 0.73
+precisonK[300] 0.69
+macro_f1: test ratio 0.05 : 0.486
+macro_f1: test ratio 0.10 : 0.748
+macro_f1: test ratio 0.15 : 0.721
+macro_f1: test ratio 0.20 : 0.619
+macro_f1: test ratio 0.25 : 0.531
+macro_f1: test ratio 0.30 : 0.575
+macro_f1: test ratio 0.35 : 0.576
+macro_f1: test ratio 0.40 : 0.489
+macro_f1: test ratio 0.45 : 0.584
+macro_f1: test ratio 0.50 : 0.368
+micro_f1: test ratio 0.05 : 0.500
+micro_f1: test ratio 0.10 : 0.750
+micro_f1: test ratio 0.15 : 0.722
+micro_f1: test ratio 0.20 : 0.625
+micro_f1: test ratio 0.25 : 0.533
+micro_f1: test ratio 0.30 : 0.583
+micro_f1: test ratio 0.35 : 0.585
+micro_f1: test ratio 0.40 : 0.489
+micro_f1: test ratio 0.45 : 0.585
+micro_f1: test ratio 0.50 : 0.390
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.62
+precisonK[150] 0.59
+precisonK[200] 0.58
+precisonK[250] 0.56
+precisonK[300] 0.58
+macro_f1: test ratio 0.05 : 0.486
+macro_f1: test ratio 0.10 : 0.413
+macro_f1: test ratio 0.15 : 0.325
+macro_f1: test ratio 0.20 : 0.534
+macro_f1: test ratio 0.25 : 0.499
+macro_f1: test ratio 0.30 : 0.413
+macro_f1: test ratio 0.35 : 0.488
+macro_f1: test ratio 0.40 : 0.489
+macro_f1: test ratio 0.45 : 0.490
+macro_f1: test ratio 0.50 : 0.540
+micro_f1: test ratio 0.05 : 0.500
+micro_f1: test ratio 0.10 : 0.417
+micro_f1: test ratio 0.15 : 0.333
+micro_f1: test ratio 0.20 : 0.542
+micro_f1: test ratio 0.25 : 0.500
+micro_f1: test ratio 0.30 : 0.417
+micro_f1: test ratio 0.35 : 0.488
+micro_f1: test ratio 0.40 : 0.489
+micro_f1: test ratio 0.45 : 0.491
+micro_f1: test ratio 0.50 : 0.542
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.78
+precisonK[150] 0.65
+precisonK[200] 0.66
+precisonK[250] 0.62
+precisonK[300] 0.63
+macro_f1: test ratio 0.05 : 0.486
+macro_f1: test ratio 0.10 : 0.580
+macro_f1: test ratio 0.15 : 0.663
+macro_f1: test ratio 0.20 : 0.486
+macro_f1: test ratio 0.25 : 0.499
+macro_f1: test ratio 0.30 : 0.554
+macro_f1: test ratio 0.35 : 0.584
+macro_f1: test ratio 0.40 : 0.487
+macro_f1: test ratio 0.45 : 0.509
+macro_f1: test ratio 0.50 : 0.421
+micro_f1: test ratio 0.05 : 0.500
+micro_f1: test ratio 0.10 : 0.583
+micro_f1: test ratio 0.15 : 0.667
+micro_f1: test ratio 0.20 : 0.500
+micro_f1: test ratio 0.25 : 0.500
+micro_f1: test ratio 0.30 : 0.556
+micro_f1: test ratio 0.35 : 0.585
+micro_f1: test ratio 0.40 : 0.489
+micro_f1: test ratio 0.45 : 0.509
+micro_f1: test ratio 0.50 : 0.475
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.84
+precisonK[150] 0.82
+precisonK[200] 0.78
+precisonK[250] 0.80
+precisonK[300] 0.78
+macro_f1: test ratio 0.05 : 0.250
+macro_f1: test ratio 0.10 : 0.486
+macro_f1: test ratio 0.15 : 0.498
+macro_f1: test ratio 0.20 : 0.571
+macro_f1: test ratio 0.25 : 0.498
+macro_f1: test ratio 0.30 : 0.494
+macro_f1: test ratio 0.35 : 0.461
+macro_f1: test ratio 0.40 : 0.459
+macro_f1: test ratio 0.45 : 0.467
+macro_f1: test ratio 0.50 : 0.472
+micro_f1: test ratio 0.05 : 0.333
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.500
+micro_f1: test ratio 0.20 : 0.583
+micro_f1: test ratio 0.25 : 0.533
+micro_f1: test ratio 0.30 : 0.500
+micro_f1: test ratio 0.35 : 0.463
+micro_f1: test ratio 0.40 : 0.468
+micro_f1: test ratio 0.45 : 0.472
+micro_f1: test ratio 0.50 : 0.475
+get precisionK...
+getting similarity...
+precisonK[50] 0.58
+precisonK[100] 0.58
+precisonK[150] 0.57
+precisonK[200] 0.54
+precisonK[250] 0.58
+precisonK[300] 0.65
+macro_f1: test ratio 0.05 : 0.250
+macro_f1: test ratio 0.10 : 0.413
+macro_f1: test ratio 0.15 : 0.444
+macro_f1: test ratio 0.20 : 0.329
+macro_f1: test ratio 0.25 : 0.433
+macro_f1: test ratio 0.30 : 0.498
+macro_f1: test ratio 0.35 : 0.483
+macro_f1: test ratio 0.40 : 0.382
+macro_f1: test ratio 0.45 : 0.432
+macro_f1: test ratio 0.50 : 0.445
+micro_f1: test ratio 0.05 : 0.333
+micro_f1: test ratio 0.10 : 0.417
+micro_f1: test ratio 0.15 : 0.444
+micro_f1: test ratio 0.20 : 0.333
+micro_f1: test ratio 0.25 : 0.433
+micro_f1: test ratio 0.30 : 0.500
+micro_f1: test ratio 0.35 : 0.488
+micro_f1: test ratio 0.40 : 0.404
+micro_f1: test ratio 0.45 : 0.434
+micro_f1: test ratio 0.50 : 0.458
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.46
+precisonK[150] 0.50
+precisonK[200] 0.57
+precisonK[250] 0.62
+precisonK[300] 0.59
+macro_f1: test ratio 0.05 : 0.625
+macro_f1: test ratio 0.10 : 0.580
+macro_f1: test ratio 0.15 : 0.532
+macro_f1: test ratio 0.20 : 0.541
+macro_f1: test ratio 0.25 : 0.598
+macro_f1: test ratio 0.30 : 0.438
+macro_f1: test ratio 0.35 : 0.498
+macro_f1: test ratio 0.40 : 0.340
+macro_f1: test ratio 0.45 : 0.517
+macro_f1: test ratio 0.50 : 0.430
+micro_f1: test ratio 0.05 : 0.667
+micro_f1: test ratio 0.10 : 0.583
+micro_f1: test ratio 0.15 : 0.556
+micro_f1: test ratio 0.20 : 0.542
+micro_f1: test ratio 0.25 : 0.600
+micro_f1: test ratio 0.30 : 0.444
+micro_f1: test ratio 0.35 : 0.512
+micro_f1: test ratio 0.40 : 0.340
+micro_f1: test ratio 0.45 : 0.528
+micro_f1: test ratio 0.50 : 0.441
+get precisionK...
+getting similarity...
+precisonK[50] 0.84
+precisonK[100] 0.67
+precisonK[150] 0.71
+precisonK[200] 0.70
+precisonK[250] 0.73
+precisonK[300] 0.74
+macro_f1: test ratio 0.05 : 0.667
+macro_f1: test ratio 0.10 : 0.486
+macro_f1: test ratio 0.15 : 0.375
+macro_f1: test ratio 0.20 : 0.486
+macro_f1: test ratio 0.25 : 0.428
+macro_f1: test ratio 0.30 : 0.416
+macro_f1: test ratio 0.35 : 0.436
+macro_f1: test ratio 0.40 : 0.424
+macro_f1: test ratio 0.45 : 0.453
+macro_f1: test ratio 0.50 : 0.508
+micro_f1: test ratio 0.05 : 0.667
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.444
+micro_f1: test ratio 0.20 : 0.500
+micro_f1: test ratio 0.25 : 0.433
+micro_f1: test ratio 0.30 : 0.417
+micro_f1: test ratio 0.35 : 0.463
+micro_f1: test ratio 0.40 : 0.426
+micro_f1: test ratio 0.45 : 0.453
+micro_f1: test ratio 0.50 : 0.508
+get precisionK...
+getting similarity...
+precisonK[50] 0.68
+precisonK[100] 0.54
+precisonK[150] 0.65
+precisonK[200] 0.72
+precisonK[250] 0.78
+precisonK[300] 0.79
+macro_f1: test ratio 0.05 : 0.143
+macro_f1: test ratio 0.10 : 0.438
+macro_f1: test ratio 0.15 : 0.438
+macro_f1: test ratio 0.20 : 0.580
+macro_f1: test ratio 0.25 : 0.417
+macro_f1: test ratio 0.30 : 0.472
+macro_f1: test ratio 0.35 : 0.427
+macro_f1: test ratio 0.40 : 0.336
+macro_f1: test ratio 0.45 : 0.467
+macro_f1: test ratio 0.50 : 0.354
+micro_f1: test ratio 0.05 : 0.167
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.444
+micro_f1: test ratio 0.20 : 0.583
+micro_f1: test ratio 0.25 : 0.433
+micro_f1: test ratio 0.30 : 0.472
+micro_f1: test ratio 0.35 : 0.439
+micro_f1: test ratio 0.40 : 0.340
+micro_f1: test ratio 0.45 : 0.472
+micro_f1: test ratio 0.50 : 0.373
+get precisionK...
+getting similarity...
+precisonK[50] 0.72
+precisonK[100] 0.54
+precisonK[150] 0.47
+precisonK[200] 0.57
+precisonK[250] 0.60
+precisonK[300] 0.58
+macro_f1: test ratio 0.05 : 0.625
+macro_f1: test ratio 0.10 : 0.500
+macro_f1: test ratio 0.15 : 0.438
+macro_f1: test ratio 0.20 : 0.486
+macro_f1: test ratio 0.25 : 0.598
+macro_f1: test ratio 0.30 : 0.472
+macro_f1: test ratio 0.35 : 0.488
+macro_f1: test ratio 0.40 : 0.397
+macro_f1: test ratio 0.45 : 0.526
+macro_f1: test ratio 0.50 : 0.508
+micro_f1: test ratio 0.05 : 0.667
+micro_f1: test ratio 0.10 : 0.500
+micro_f1: test ratio 0.15 : 0.444
+micro_f1: test ratio 0.20 : 0.500
+micro_f1: test ratio 0.25 : 0.600
+micro_f1: test ratio 0.30 : 0.472
+micro_f1: test ratio 0.35 : 0.488
+micro_f1: test ratio 0.40 : 0.404
+micro_f1: test ratio 0.45 : 0.528
+micro_f1: test ratio 0.50 : 0.508
+model converge terminating

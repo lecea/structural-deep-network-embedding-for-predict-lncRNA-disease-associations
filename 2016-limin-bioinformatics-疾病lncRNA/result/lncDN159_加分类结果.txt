@@ -1,0 +1,28 @@
+Vertexes : 159  Edges : 1346 ngSampleRatio: 0.100000
+
+precisonK[50] 0.92
+precisonK[100] 0.96
+precisonK[150] 0.75
+precisonK[200] 0.56
+precisonK[250] 0.46
+precisonK[300] 0.48
+macro_f1: test ratio 0.05 : 0.192
+macro_f1: test ratio 0.10 : 0.152
+macro_f1: test ratio 0.15 : 0.229
+macro_f1: test ratio 0.20 : 0.179
+macro_f1: test ratio 0.25 : 0.273
+macro_f1: test ratio 0.30 : 0.197
+macro_f1: test ratio 0.35 : 0.117
+macro_f1: test ratio 0.40 : 0.204
+macro_f1: test ratio 0.45 : 0.196
+macro_f1: test ratio 0.50 : 0.194
+micro_f1: test ratio 0.05 : 0.625
+micro_f1: test ratio 0.10 : 0.438
+micro_f1: test ratio 0.15 : 0.458
+micro_f1: test ratio 0.20 : 0.406
+micro_f1: test ratio 0.25 : 0.425
+micro_f1: test ratio 0.30 : 0.458
+micro_f1: test ratio 0.35 : 0.375
+micro_f1: test ratio 0.40 : 0.406
+micro_f1: test ratio 0.45 : 0.403
+micro_f1: test ratio 0.50 : 0.425

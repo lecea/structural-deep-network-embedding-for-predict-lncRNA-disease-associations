@@ -1,0 +1,26 @@
+precisonK[50] 0.84
+precisonK[100] 0.92
+precisonK[150] 0.95
+precisonK[200] 0.96
+precisonK[250] 0.97
+precisonK[300] 0.97
+macro_f1: test ratio 0.05 : 1.000
+macro_f1: test ratio 0.10 : 1.000
+macro_f1: test ratio 0.15 : 1.000
+macro_f1: test ratio 0.20 : 0.759
+macro_f1: test ratio 0.25 : 0.736
+macro_f1: test ratio 0.30 : 0.888
+macro_f1: test ratio 0.35 : 0.813
+macro_f1: test ratio 0.40 : 0.783
+macro_f1: test ratio 0.45 : 0.785
+macro_f1: test ratio 0.50 : 0.792
+micro_f1: test ratio 0.05 : 1.000
+micro_f1: test ratio 0.10 : 1.000
+micro_f1: test ratio 0.15 : 1.000
+micro_f1: test ratio 0.20 : 0.906
+micro_f1: test ratio 0.25 : 0.875
+micro_f1: test ratio 0.30 : 0.958
+micro_f1: test ratio 0.35 : 0.929
+micro_f1: test ratio 0.40 : 0.938
+micro_f1: test ratio 0.45 : 0.889
+micro_f1: test ratio 0.50 : 0.925
